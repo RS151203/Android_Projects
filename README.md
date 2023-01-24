@@ -12,4 +12,6 @@ Let PassContainer do the work for you.
 
 Respecting your privacy you can view the source code here to enusre user privacy and password integrity.
 
-App by RS.Website by UT.
+App by RS.
+
+Website by UT.
